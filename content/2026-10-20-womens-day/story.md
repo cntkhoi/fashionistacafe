@@ -22,3 +22,8 @@ This evening, each lady is welcomed with a complimentary welcome drink of her ch
 ## Link ảnh
 - Phương án 1: https://d8j0ntlcm91z4.cloudfront.net/user_2xlHWoJRHOWvRK5mtSB9yzfBUbN/hf_20261020_083543_631b15bb-fcb1-4b1b-84ee-a598f5b5f481.png
 - Phương án 2: https://d8j0ntlcm91z4.cloudfront.net/user_2xlHWoJRHOWvRK5mtSB9yzfBUbN/hf_20261020_083543_ed41a0fa-4ff1-4e28-ad29-64961d555cf3.png
+
+## Canva (chữ đã tách lớp, chỉnh được)
+- Phương án 1: https://canva.link/4s3lr2oad6jjuzp
+- Phương án 2: https://canva.link/zuyrz9ji327ghry
+Đã soát chữ qua Canva: đúng chính tả ở cả hai bản.
