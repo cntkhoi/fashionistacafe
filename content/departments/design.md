@@ -34,6 +34,8 @@ Khôi
 | **Layout & Typography Designer** | Dựng chữ, logo, gradient, vùng an toàn; xuất file | PNG cuối 1080x1350 (feed), 1080x1920 (story), 1080x1080 (nếu cần) |
 | **QA Reviewer** | Soát chéo theo checklist mục 5 trước khi nộp Leader; không phải người đã làm file đó | Danh sách lỗi hoặc "đạt" |
 
+**Bộ skill riêng:** mỗi vị trí có một file skill trong `/mnt/project-files/design-dept/skills/` (repo: `content/departments/design-skills/`). Khi gọi một agent, Leader chỉ đưa file skill của vị trí đó + brief + đầu vào cần thiết. Agent chỉ làm đúng mục "Làm" trong skill của mình; việc ngoài phạm vi thì ghi lại và trả về Leader. Không nạp nguyên brand guide cho từng agent, để tiết kiệm token. Job nhỏ (1 ảnh) chỉ gọi Image Artist, Layout, QA; Art Director chỉ vào khi có carousel, chiến dịch hoặc khi CEO trả về vì concept.
+
 Vai trò bổ sung khi có nhu cầu: Motion Designer (video dọc ngắn, reels), Print Designer (menu, thẻ series, thiệp in).
 
 ## 3. Quy trình
