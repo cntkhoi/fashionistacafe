@@ -71,3 +71,8 @@ Bố cục: <1 hero + 2-3 phụ / 1 ảnh đơn / story>
 - Story 20/10: posts/2026-10-20-womens-day/story.md (Canva: https://canva.link/4s3lr2oad6jjuzp, https://canva.link/zuyrz9ji327ghry)
 - Tuna Tartare: posts/dishes/tuna-tartare.md (viết trước khi có quy trình research; nên làm lại theo quy trình mới nếu Khôi muốn)
 - Bộ khung style guide cho brand khác: brand-style-template/brand-style-guide.md
+
+## 6. Bộ skill riêng cho từng agent (Khôi bổ sung 2026-10-24)
+- Mỗi agent (Leader và nhân viên) có một bộ skill riêng theo đúng lĩnh vực và chức vụ, được research trên mạng rồi viết thành file cho agent đó học.
+- Mỗi agent chỉ làm đúng nhiệm vụ của mình và chỉ nạp skill của mình, để tiết kiệm token.
+- Mỗi phòng tự research và viết bộ skill cho nhân viên của phòng mình (thread Viết bài lo phòng Marketing, thread Thiết kế lo phòng Design).
