@@ -49,7 +49,7 @@ Vai trò bổ sung khi có nhu cầu: Motion Designer (video dọc ngắn, reels
 7. **CEO duyệt.**
    - Đạt: file ra **final**, giao Khôi.
    - Không đạt: trả về Leader. Leader **viết brief mới** (nêu điều CEO yêu cầu, điều giữ, điều đổi), giao lại team, quay lại bước 3 hoặc 4, rồi lặp lại bước 5 đến 7.
-8. **Lưu trữ.** File final lưu ở `/mnt/project-files/posts/<bài>/design/` và commit vào repo `content/<bài>/design/` (nguồn cho website FC sau này).
+8. **Lưu trữ.** Ghi `/mnt/project-files/posts/<slug>/design.md` (file, link Canva, job id, log vòng duyệt) và commit vào repo `content/<slug>/` (nguồn cho website FC sau này).
 
 Mỗi vòng có ghi lại: phiên bản (v1, v2...), ai làm, kết quả chấm, lý do.
 
@@ -88,12 +88,13 @@ Hạn: [...]
 - [ ] Cảm giác chung: Quiet Luxury, Cinematic, tĩnh, chậm. Nhìn vào thấy villa Pháp, không thấy quảng cáo
 - [ ] Tem Michelin Selected dùng tiết chế (chỉ hero hoặc bài thương hiệu)
 
-## 6. Công cụ
+## 6. Công cụ (cập nhật theo bàn giao `/mnt/project-files/handoff/agency-workflow.md`)
 
-- **Ảnh thật:** thư mục `assets/photos/{space,dishes,drinks,team,events,sets/...}` trên máy Khôi / repo.
-- **Ảnh AI:** Higgsfield (generate_image); prompt theo mẫu mục 6 của brand guide. Tạo nền không chữ trước, dựng chữ sau.
-- **Dựng chữ & xuất file:** HTML/CSS render bằng trình duyệt hoặc Python (Pillow) với font Cormorant Garamond / Playfair Display; Canva khi kết nối hoạt động (hiện kết nối Canva trong phiên này đang lỗi).
-- **Trình bày để duyệt:** trang xem trước gom các phiên bản cạnh nhau.
+- **Ảnh thật (ưu tiên):** folder trên Mac của Khôi `/Users/nkblu/Documents/Dev/fashionistacafe/assets/photos/{space,dishes,drinks,team,events,sets/<set>}` (không phải git clone; đọc bằng folder tools, commit lên repo từ container).
+- **Ảnh AI:** Higgsfield `gpt_image_2_5` (9:16 hoặc 4:5, quality high, 2k), mỗi lần 2 phương án. Credits còn khoảng 46 (2026-10-20), dùng tiết kiệm. Container KHÔNG tải được ảnh từ CDN cloudfront của Higgsfield.
+- **Đường làm được:** Canva `upload-asset-from-url` (dán thẳng link cloudfront) → `separate-image-layers` (tách chữ thành lớp chỉnh được) → `read-design` (xem thumbnail, đọc chữ để soát chính tả). Gửi Khôi link canva.link.
+- **Dự phòng khi Canva lỗi:** dựng chữ bằng HTML/CSS (Playwright) hoặc Pillow trên ảnh thật có trong container.
+- **Lưu mỗi bài:** `/mnt/project-files/posts/<slug>/design.md` (link ảnh, link Canva, job id, log các vòng duyệt) và repo `content/<slug>/`.
 
 ## 7. Bàn giao giữa các phòng
 
