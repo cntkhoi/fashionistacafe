@@ -41,6 +41,8 @@ Khôi chỉ nói chuyện với CEO (hoặc trực tiếp vào thread phòng ban
 | **Social Content Manager** | Ghép caption hoàn chỉnh (VI — EN — thành phần — hashtag), đề xuất ảnh/bố cục cho Design, giờ đăng | bài đăng sẵn sàng |
 | **Performance & Digital** | Chỉ khi có chiến dịch/quảng cáo: kênh, ngân sách, chỉ số đo, biến thể A/B, vẫn giữ giọng không bán hàng | đề xuất phân phối |
 
+**Bộ skill riêng (Khôi yêu cầu 24/10/2026):** mỗi vai trò có một file skill trong [skills/marketing/](skills/marketing/00-README.md), soạn từ research trên mạng. Khi gọi agent, Leader chỉ đưa file skill của vai trò đó + brief + đúng đầu vào cần. Agent chỉ đọc những mục guide mà skill chỉ định, làm đúng một đầu ra rồi dừng, để tiết kiệm token.
+
 Mỗi nhân viên là một agent con do Marketing Leader giao brief. Không phải bài nào cũng cần đủ người: bài lẻ dùng Researcher, 2 Writer, Cross-editor; chiến dịch thêm Planner, Social, Performance.
 
 ---
