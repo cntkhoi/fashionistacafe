@@ -113,7 +113,7 @@ Câu khung có thể dùng: "Mở đầu là..., kế đến là..., để rồi
 | Đôi khi mời thử ("bạn có muốn nếm thử?", "đáng để thử") | Không mời, không thúc. Kết bằng suy ngẫm, nhường khoảng trống cho khách |
 | Khối liên hệ dài, "Contact us", "Nội dung độc quyền" | Khối thông tin tuỳ chọn, ngắn, sau dấu "—" |
 | Khối tầng hương | Thành phần món theo cú pháp menu: **[Nguyên liệu chính / Kỹ thuật]** with [Đi kèm / Sốt] |
-| Chỉ tiếng Việt | **Song ngữ:** VI (bản kể đầy đủ theo lối mẫu) — EN (ngắn hơn, chính xác, dịch ý) |
+| Chỉ tiếng Việt | **Song ngữ, hai bản viết riêng:** VI theo đúng lối bài mẫu và bài đối thủ; EN viết lại theo văn phong tiếng Anh, không dịch (xem mục 5b) |
 | Đôi khi tả bao bì, nắp chai | Không tả bát đĩa, đạo cụ, trừ khi phục vụ "sự sắp đặt tĩnh lặng" |
 | Không có staccato cố định | Giữ **một dòng staccato ba từ** (Mềm mại. Giòn rụm. Vừa vặn.), đặt ngay sau tiêu đề hoặc trước phần mô tả lớp |
 
@@ -128,11 +128,23 @@ Câu khung có thể dùng: "Mở đầu là..., kế đến là..., để rồi
  có kỹ thuật thật: áp chảo, hầm cô đặc...]         ← nhịp 5 (Execution)
 [Suy ngẫm kết, một câu ngắn đứng riêng]            ← nhịp 6 (Philosophy)
 —
-[EN: 3–5 câu, cùng ý, chính xác, thanh lịch]
+[EN: viết riêng theo văn phong tiếng Anh, cùng câu chuyện, không dịch]
 —
 **Core Ingredient / Technique** with Accompaniments
 #FashionistaCafe #TheArtOfCreation #QuietLuxury #FineDining #[riêng]
 ```
+
+## 5b. Song ngữ: hai bản, hai lối viết (Khôi chốt 24/10/2026)
+
+**Tiếng Việt:** viết đúng như lối văn đã học ở mục 1–4, theo bài mẫu Floraison **và** các bài đối thủ đã thu thập (SÓNO, Bờm, Aiii House: /mnt/project-files/competitor-refs/refs.md). Đây là bản kể đầy đủ.
+
+**Tiếng Anh:** **không dịch** bản tiếng Việt. Giữ cùng câu chuyện và cùng tinh thần FC, nhưng viết theo cách người viết tiếng Anh viết:
+- Câu gọn hơn, ít so sánh chồng chất; một hình ảnh mạnh thay cho ba hình ảnh.
+- Động từ cụ thể, chủ động (seared, folded, rests, lingers); tránh tính từ hoa mỹ.
+- Ưu tiên understatement: nói ít, để khoảng trống.
+- Có thể đổi thứ tự ý, bỏ chi tiết chỉ hợp người Việt (từ láy, điển tích cần giải thích dài), hoặc thay bằng một chi tiết dễ hiểu với khách quốc tế.
+- Staccato tiếng Anh viết riêng (Soft. Crisp. Seamless.), không cần khớp nghĩa từng từ với dòng tiếng Việt.
+- Độ dài thường bằng một nửa đến hai phần ba bản tiếng Việt.
 
 ### Độ dài
 Bài mẫu: 150–300 chữ phần tiếng Việt, 4–6 đoạn, mỗi đoạn 2–5 câu. FC giữ tương tự cho bài món/chủ đề; bài thông báo vận hành ngắn hơn nhiều.
@@ -179,7 +191,7 @@ Mỗi góc 1–2 câu, kèm kiểu mở chuyện (mục 2) và câu suy ngẫm k
 **Câu hỏi riêng cho chủ đề:** 2–4 câu rút ra từ research ở bước 1 (ví dụ: "Bếp có dùng đúng cách ủ truyền thống X không?", "Món này có liên quan đến dịp Y không?").
 
 ### Bước 4. Viết
-Theo khung mục 5. Một bản VI đầy đủ + EN + khối thành phần + hashtag.
+Theo khung mục 5. Viết bản VI trước theo lối mẫu, rồi viết bản EN riêng theo mục 5b (không dịch từ bản VI) + khối thành phần + hashtag.
 
 ### Bước 5. Tự kiểm trước khi gửi
 - [ ] Có câu chuyện gốc thật, đã kiểm chứng (hoặc ghi rõ "tương truyền")?
@@ -188,7 +200,7 @@ Theo khung mục 5. Một bản VI đầy đủ + EN + khối thành phần + ha
 - [ ] Có một dòng staccato ba từ?
 - [ ] Câu kết là suy ngẫm, không phải lời mời?
 - [ ] Không emoji, không từ bán hàng, không tính từ rỗng, không khen bát đĩa?
-- [ ] EN dịch ý, không dịch từng chữ?
+- [ ] Bản EN đọc như người bản ngữ viết, không phải bản dịch của đoạn VI?
 - [ ] Dùng câu trả lời của Khôi, không bịa chi tiết bếp?
 
 ---
