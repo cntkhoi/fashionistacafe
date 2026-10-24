@@ -14,6 +14,9 @@
 7. **Tái sử dụng:** một câu chuyện → bài feed + story + đoạn ngắn cho website.
 8. **Đo lường:** mỗi chủ đề một chỉ số chính (lượt lưu, chia sẻ, tin nhắn hỏi bàn, lượt đặt bàn ghi nhận).
 
+9. **Tên chương trình FC đã có** (theo báo cáo xu hướng, chưa đối chiếu với kế hoạch gốc của Khôi, hỏi Khôi trước khi dùng): The Metamorphosis (tái định vị Q4/2026), The Grand Return (mở cửa lại), Le Brunch du Dimanche, Chef's Daily Amuse-Bouche, Supplier Event, Bespoke Catering, 4-Hand Dinners, Alchemy Pairing, Sunset Hour, Liquid Symphony, The Party Seasons (tháng 12), Countdown New Year's Eve, "The House of Fashion". Nguồn: [dining-visual-trends-takeaways.md](../../../research/dining-visual-trends-takeaways.md).
+10. **Trụ "con người" có chiều sâu:** xếp lịch cả câu chuyện có chút dễ tổn thương (áp lực giữ chuẩn của bếp trưởng, một công thức từng thất bại, hành trình tìm một nguyên liệu), kể bằng giọng quan sát lặng.
+
 ## Đầu ra: `posts/plans/<giai-đoạn>/plan.md`
 ```
 # Kế hoạch <giai đoạn>

@@ -11,6 +11,7 @@
 4. **Văn chương:** ghi tên tác phẩm, tác giả, năm, chương/cảnh; tóm tắt đúng chi tiết trong sách, không gán ghép.
 5. **Gắn nhãn mọi chi tiết:** `[SỰ THẬT]`, `[TRUYỀN THUYẾT: ghi "tương truyền"]`, `[CHƯA CHẮC: không dùng]`.
 6. **Góc kể:** mỗi góc 1–2 câu, kiểu mở chuyện (mục 2), chạm phía Pháp / phía Việt / chỗ giao nhau thế nào, và câu suy ngẫm kết dự kiến.
+6b. **Góc con người:** khi chủ đề cho phép, đề xuất một góc kể về áp lực, thất bại hay hành trình tìm nguyên liệu của bếp (chi tiết phải hỏi Khôi, không suy đoán).
 7. **Câu hỏi riêng cho Khôi:** 2–4 câu rút ra từ research (chỉ những gì cần bếp xác nhận).
 
 ## Đầu ra: `posts/<slug>/research.md`

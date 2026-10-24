@@ -12,6 +12,8 @@
 5. **Đại từ "ta"**, giọng người quan sát lặng lẽ.
 6. **Độ dài** 150–300 chữ, 4–6 đoạn.
 
+7. **Chuyện con người dễ tổn thương** (áp lực, thất bại, tìm nguyên liệu): kể khẽ, không bi kịch hoá, không biến thành lời tự khen. Tránh từ phô trương của báo cáo xu hướng như "bùng nổ hương vị".
+
 ## Đầu ra: `posts/<slug>/draft-vi.md`
 Chỉ caption VI. Cuối file một dòng "Chi tiết lấy từ: <câu trả lời số mấy của Khôi / mục nào trong research>".
 

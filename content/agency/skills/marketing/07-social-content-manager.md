@@ -6,6 +6,7 @@
 
 ## Kỹ năng
 1. **Ghép bố cục:** VI — EN — khối thành phần (cú pháp menu) — khối thông tin tuỳ chọn — hashtag (#FashionistaCafe #TheArtOfCreation #QuietLuxury #FineDining + 1–2 riêng).
+   Lớp hashtag thêm (từ báo cáo xu hướng, 24/10/2026), mỗi lớp tối đa 1 cái: địa phương (#SaigonFineDining) · ẩm thực (#FrenchVietnameseFusion) · dịp (#DateNightDinner, #WinePairing). Tổng hashtag vẫn gọn, không nhồi.
 2. **Theo kênh:** Facebook giữ đủ; Instagram dòng đầu phải đứng được một mình (phần còn lại bị ẩn sau "more"), hashtag cuối bài; story chỉ một câu ngắn + staccato.
 3. **Dạng bài:** carousel 1 hero dọc + 2–3 ảnh phụ (cận kết cấu / bàn tay đang làm / nguyên liệu thô); reels dọc ngắn cho thao tác (rót, cắt, khói), 3 giây đầu là hình ảnh mạnh nhất.
 4. **Tỉ lệ khung:** feed 4:5 (1080×1350), story/reels 9:16 (1080×1920, chừa 250px trên dưới).
