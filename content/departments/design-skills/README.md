@@ -15,7 +15,8 @@ Agent chỉ làm phần "Làm", gặp việc ở mục "Không làm" thì ghi l�
 | photo-retoucher.md | Photo Retoucher | ảnh thật cần chỉnh màu, crop, làm sạch |
 | layout-typography.md | Layout & Typography Designer | dựng chữ, logo, xuất file |
 | qa-reviewer.md | QA Reviewer | trước khi nộp Leader, mỗi vòng |
+| motion-designer.md | Motion Designer | bài có Reels / video dọc |
 
-Khi cần thêm Motion Designer hoặc Print Designer, viết thêm file cùng khuôn: Vai trò / Làm / Không làm / Đầu vào / Đầu ra / Kỹ năng chuyên môn / Tự soát / Nguồn.
+Khi cần thêm Print Designer, viết thêm file cùng khuôn: Vai trò / Làm / Không làm / Đầu vào / Đầu ra / Kỹ năng chuyên môn / Tự soát / Nguồn.
 
 Research 2026-10-24, nguồn ghi ở cuối từng file.

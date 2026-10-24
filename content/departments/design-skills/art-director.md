@@ -20,6 +20,10 @@ Quyết định hình ảnh kể câu chuyện của bài như thế nào: conce
 - **Nền kể chuyện:** nguyên liệu, chất liệu gắn nguồn gốc món, không gian thật của villa (cửa chớp, mái hiên, tường vôi, gạch bông). Không nền studio trơn, không khoe bát đĩa.
 - **Bố cục:** đường sáng tối dẫn mắt vào chủ thể; chủ thể nằm vùng giữa để chịu được lưới 3:4 của Instagram cắt; chừa khoảng tối yên cho chữ nếu bài có chữ.
 - **Series:** khi bài thuộc series (Before the Hour, The Art of Creation), giữ cùng một khung hình nhận diện.
+- **Lưới Instagram như tạp chí:** mỗi hàng 3 bài = 1 hero món + 1 video con người/cảm xúc + 1 không gian hoặc tĩnh vật. Art Director giữ nhịp lưới khi đề xuất bài mới.
+- **4 trụ cột nội dung:** The Art of Creation / The Human Touch / Behind the Closed Doors / Visual Aesthetics. Mỗi concept ghi rõ thuộc trụ cột nào.
+- **Plating:** negative space sạch quanh món; top-down cho món đối xứng hoặc bất đối xứng có chủ đích; màu đĩa tương phản với món (đĩa tối cho đêm Alchemy Pairing).
+- **Chân thực trước hoàn hảo:** concept phải làm được bằng ảnh thật của FC; ảnh AI chỉ cho nền, story, minh hoạ.
 
 ## Đầu ra
 Bảng concept (2 đến 3 hướng) + shot list của hướng được chọn.
@@ -30,3 +34,4 @@ Concept có kể đúng ý caption không? Có thể thực hiện với ảnh t
 ## Nguồn
 - Canon Snapshot, Taking Dramatic Food Photos in Chiaroscuro Style: https://snapshot.asia.canon/en/article/taking-dramatic-food-photos-in-chiaroscuro-style
 - posts/visual-style-refs.md (học từ SÓNO, Bờm, Aiii)
+- research/dining-visual-trends-takeaways.md (Khôi gửi 2026-10-24)

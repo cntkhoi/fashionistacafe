@@ -42,3 +42,6 @@ Món (nhiều nhất) / nguyên liệu và mùa vụ (cốm, gia vị) / đội 
 - Aiii ("mời bạn ghé Aiii, không cay không về!", "See you tonight!") và Bờm ("chỉ đợi bạn ghé thăm") vẫn có lời mời; FC bỏ hẳn, kết bằng phần Philosophy.
 - FC có lợi thế riêng là căn villa Pháp: ánh sáng qua cửa chớp, mái hiên, tường vôi, gạch bông. Có thể làm nền cho ảnh hero thay cho nền studio.
 - Ứng viên series cho FC: "Before the Hour" (những khoảnh khắc chuẩn bị trước giờ khách đến) và "The Art of Creation" (từng món một).
+
+## 9. Bổ sung từ báo cáo xu hướng fine dining (2026-10-24)
+Xem /mnt/project-files/research/dining-visual-trends-takeaways.md: lưới 3 bài/hàng (hero món + video con người + không gian/tĩnh vật), 4 trụ cột nội dung, các định dạng Reels hợp FC, âm thanh thật cho món mặn, ưu tiên ảnh thật hơn ảnh AI.

@@ -13,6 +13,9 @@ Cung cấp ảnh nguồn: chọn ảnh thật của FC, hoặc tạo ảnh AI kh
 - Không chỉnh màu sâu (việc của Retoucher), không dựng chữ (việc của Layout).
 - Không dùng ảnh AI để giả làm món có thật của FC khi Khôi chưa đồng ý; ảnh AI món phải được ghi rõ là ảnh minh hoạ trong design.md.
 
+## Chân thực
+Khách tin ảnh chụp thật hơn ảnh AI, và thất vọng nhất khi ảnh khác thực tế. Ảnh AI không bao giờ thay ảnh món thật của FC trong bài đăng món.
+
 ## Kỹ năng viết prompt
 Viết như một brief chụp ảnh, theo thứ tự: chủ thể → bối cảnh → nguồn sáng → máy ảnh → chất liệu → khuyết điểm nhỏ → loại trừ.
 - **Một nguồn sáng cụ thể:** "a single raking shaft of warm light from half-open French shutters, upper left". Tránh từ mơ hồ: magical, ultra dramatic.
@@ -34,3 +37,4 @@ Danh sách ảnh (đường dẫn hoặc link Canva/job id) + prompt đã dùng,
 ## Nguồn
 - Cloudinary, How to make AI images look real: https://cloudinary.com/guides/image-generation/how-to-make-ai-images-look-real
 - brand-style-guide.md mục 6; handoff/agency-workflow.md mục 4
+- research/dining-visual-trends-takeaways.md (Khôi gửi 2026-10-24)
