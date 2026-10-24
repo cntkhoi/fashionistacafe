@@ -102,4 +102,23 @@ CEO giao việc
 
 ## 6. Bàn giao sang phòng Design
 
-Gói gửi thread **Thiết kế hình ảnh cho FC** gồm: caption final, ý chính của câu chuyện (1 câu), cảm giác muốn khách mang về, đề xuất ảnh (hero + 2–3 ảnh phụ theo [visual-style-refs.md](../posts/visual-style-refs.md)), có chữ trên ảnh hay không, kênh và tỉ lệ khung.
+Gói gửi thread **Thiết kế hình ảnh cho FC** là caption final kèm một **Design Brief** (mẫu thống nhất với phòng Design, theo [handoff/agency-workflow.md](../handoff/agency-workflow.md)):
+
+```
+Bài: <tên>  | Kênh/kích thước: <FB 4:5, story 9:16...> | Ngày đăng: <...>
+Thông điệp chính: <1 câu>
+Chữ trên ảnh (nếu có, đã duyệt chính tả): <...>
+Ảnh thật cần dùng: assets/photos/<thư mục>/<file> (hoặc "chưa có, cần tạo AI")
+Mood: <ánh sáng, màu, đạo cụ kể chuyện>
+Bố cục: <1 hero + 2-3 phụ / 1 ảnh đơn / story>
+```
+
+Quy tắc hình ảnh tham chiếu: [visual-style-refs.md](../posts/visual-style-refs.md).
+
+## 7. Nhật ký duyệt
+
+Mỗi bài có file `/mnt/project-files/posts/<slug>/review-log.md`, mỗi lượt chấm một dòng: vòng số mấy, ai chấm (Leader/CEO), đạt/không đạt, điểm, lý do, brief sửa (nếu có).
+
+## 8. Việc tồn
+
+- `posts/dishes/tuna-tartare.md` được viết trước khi có quy trình research. Làm lại theo quy trình mới nếu Khôi muốn.
