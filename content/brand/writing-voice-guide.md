@@ -12,6 +12,7 @@ Bài mẫu không tả sản phẩm trước. Bài **kể một câu chuyện tr
 - **Câu chuyện có gốc thật:** điển tích, thần thoại, lịch sử có ngày tháng, câu nói dân gian, câu thơ, ý nghĩa của tên gọi, hoặc một ký ức rất riêng.
 - **Mô tả cảm giác theo lớp:** mở đầu, ở giữa, đọng lại. Mỗi lớp gắn với một hình ảnh cụ thể và một nét tính cách con người.
 - **Kết bằng một suy ngẫm:** về thời gian, tình yêu, sự trở về, sự trưởng thành. Câu kết thường đảo lại cách nhìn ban đầu.
+- **Câu chuyện từ văn chương thế giới (Khôi bổ sung 24/10/2026):** ngoài điển tích và lịch sử, có thể mượn câu chuyện, nhân vật hoặc một tình huống cụ thể trong các tiểu thuyết, truyện nổi tiếng của nhiều nền văn minh và ngôn ngữ (Pháp, Việt, Nhật, Trung Hoa, Nga, Anh, Mỹ Latinh...). Điều kiện: phải khớp đúng với chủ đề bài viết. Bài mẫu đã làm vậy với *Call Me By Your Name* / *Find Me* của André Aciman.
 - **Giọng kể:** chậm, thủ thỉ, giàu hình ảnh, không vội kết luận, hay dùng "có lẽ", "ắt hẳn", "bằng một cách nào đó".
 
 ---
@@ -36,7 +37,8 @@ Sau đó là khối thông tin (với nước hoa: tầng hương; với FC: th�
 4. **Ký ức cá nhân:** bà, mẹ tưới cây trước hiên, mùi nhang, mùi áo phơi nắng.
 5. **Một chuyến đi:** Sentosa, Jeju, thảo nguyên Bayanbulak, đảo Tanna.
 6. **Một câu hỏi:** "Khi đã lâu không về thăm nhà, bạn sẽ nhớ gì nhất?" / "Tại sao Halloween lại có bí ngô?"
-7. **Một nghịch lý:** quái vật mang trái tim khao khát được yêu; bạc hà mát lạnh đặt cạnh Morocco nắng gắt.
+7. **Một cảnh trong tiểu thuyết, truyện nổi tiếng:** mượn một tình huống, nhân vật hoặc câu văn từ văn chương các nền văn hoá, miễn là khớp với chủ đề. Ví dụ hướng đi: miếng bánh madeleine chấm trà làm sống dậy ký ức trong *Đi tìm thời gian đã mất* (Proust) cho bài về ký ức và hương vị; bữa tiệc trong *Babette's Feast* (Karen Blixen) cho bài về người đầu bếp dồn cả tay nghề vào một bữa ăn; *Như nước với sô-cô-la* (Laura Esquivel) cho bài về món ăn chở cảm xúc; Thạch Lam viết về quà Hà Nội trong *Hà Nội băm sáu phố phường* cho bài về món Việt. Ghi rõ tên tác phẩm và tác giả, kể đúng chi tiết trong sách.
+8. **Một nghịch lý:** quái vật mang trái tim khao khát được yêu; bạc hà mát lạnh đặt cạnh Morocco nắng gắt.
 
 ---
 
@@ -167,7 +169,8 @@ Với món ăn, nguyên liệu, kỹ thuật hoặc dịp lễ, tìm:
 2. **Ý nghĩa tên gọi:** chữ gốc (Pháp, Hán Việt, Nhật...), nghĩa đen, nghĩa bóng.
 3. **Điển tích, truyền thuyết, giai thoại** liên quan.
 4. **Ý nghĩa văn hoá, biểu tượng:** mùa, lễ hội, điềm lành, phong tục.
-5. **Câu nói, câu thơ, ca dao, tác phẩm** nhắc đến nó.
+5. **Câu nói, câu thơ, ca dao** nhắc đến nó.
+5b. **Tiểu thuyết, truyện nổi tiếng** ở nhiều nền văn hoá, ngôn ngữ có cảnh, nhân vật hoặc tình huống khớp với chủ đề (món ăn, nguyên liệu, cảm xúc, dịp lễ). Kiểm tra đúng chi tiết trong sách, ghi tên tác phẩm và tác giả.
 6. **Kỹ thuật, khoa học:** vì sao kỹ thuật đó tạo ra kết cấu đó (để phần Execution chính xác).
 7. **Cầu nối Pháp Việt:** điểm gặp nhau giữa hai nền ẩm thực, hợp với villa Pháp ở Sài Gòn.
 
@@ -194,7 +197,7 @@ Mỗi góc 1–2 câu, kèm kiểu mở chuyện (mục 2) và câu suy ngẫm k
 Theo khung mục 5. Viết bản VI trước theo lối mẫu, rồi viết bản EN riêng theo mục 5b (không dịch từ bản VI) + khối thành phần + hashtag.
 
 ### Bước 5. Tự kiểm trước khi gửi
-- [ ] Có câu chuyện gốc thật, đã kiểm chứng (hoặc ghi rõ "tương truyền")?
+- [ ] Có câu chuyện gốc thật, đã kiểm chứng (hoặc ghi rõ "tương truyền"); nếu mượn từ tiểu thuyết thì đúng chi tiết, có tên sách và tác giả, và khớp chủ đề?
 - [ ] Có mô tả theo lớp với ít nhất 3 chi tiết cảm giác cụ thể?
 - [ ] Có kỹ thuật thật (áp chảo, hầm, ủ...)?
 - [ ] Có một dòng staccato ba từ?
