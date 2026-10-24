@@ -13,6 +13,10 @@ Bài mẫu không tả sản phẩm trước. Bài **kể một câu chuyện tr
 - **Mô tả cảm giác theo lớp:** mở đầu, ở giữa, đọng lại. Mỗi lớp gắn với một hình ảnh cụ thể và một nét tính cách con người.
 - **Kết bằng một suy ngẫm:** về thời gian, tình yêu, sự trở về, sự trưởng thành. Câu kết thường đảo lại cách nhìn ban đầu.
 - **Câu chuyện từ văn chương thế giới (Khôi bổ sung 24/10/2026):** ngoài điển tích và lịch sử, có thể mượn câu chuyện, nhân vật hoặc một tình huống cụ thể trong các tiểu thuyết, truyện nổi tiếng của nhiều nền văn minh và ngôn ngữ (Pháp, Việt, Nhật, Trung Hoa, Nga, Anh, Mỹ Latinh...). Điều kiện: phải khớp đúng với chủ đề bài viết. Bài mẫu đã làm vậy với *Call Me By Your Name* / *Find Me* của André Aciman.
+- **Câu chuyện phải mang hồn Pháp Việt (Khôi bổ sung 24/10/2026):** FC là nhà hàng fusion Pháp Việt, nên mọi câu chuyện chọn ra phải dẫn về điểm gặp nhau của hai nền văn hoá. Ưu tiên theo thứ tự:
+  1. Chuyện, văn chương, lịch sử **Pháp** và **Việt** (Proust, Flaubert, Hugo, Colette, Duras với *Người tình* ở Sài Gòn; Nguyễn Du, Thạch Lam, Vũ Bằng, Nguyễn Tuân; giai thoại ẩm thực Pháp; lịch sử Sài Gòn và các villa Pháp).
+  2. Chuyện về **sự giao thoa** giữa hai bên: bánh mì, cà phê phin, phở và pot-au-feu, bơ, pa-tê, rượu vang ở Đông Dương, người đầu bếp Việt học bếp Pháp.
+  3. Văn hoá khác (Nhật, Trung Hoa, Nga, Anh...) **chỉ khi** câu chuyện soi được vào món hoặc chủ đề, và câu cầu nối phải kéo nó về tinh thần Pháp Việt của FC.
 - **Giọng kể:** chậm, thủ thỉ, giàu hình ảnh, không vội kết luận, hay dùng "có lẽ", "ắt hẳn", "bằng một cách nào đó".
 
 ---
@@ -172,7 +176,7 @@ Với món ăn, nguyên liệu, kỹ thuật hoặc dịp lễ, tìm:
 5. **Câu nói, câu thơ, ca dao** nhắc đến nó.
 5b. **Tiểu thuyết, truyện nổi tiếng** ở nhiều nền văn hoá, ngôn ngữ có cảnh, nhân vật hoặc tình huống khớp với chủ đề (món ăn, nguyên liệu, cảm xúc, dịp lễ). Kiểm tra đúng chi tiết trong sách, ghi tên tác phẩm và tác giả.
 6. **Kỹ thuật, khoa học:** vì sao kỹ thuật đó tạo ra kết cấu đó (để phần Execution chính xác).
-7. **Cầu nối Pháp Việt:** điểm gặp nhau giữa hai nền ẩm thực, hợp với villa Pháp ở Sài Gòn.
+7. **Cầu nối Pháp Việt (bắt buộc):** điểm gặp nhau giữa hai nền ẩm thực, hợp với villa Pháp ở Sài Gòn. Mọi góc kể đề xuất ở bước 2 phải nói rõ nó chạm vào phía Pháp, phía Việt, hay chỗ giao nhau thế nào.
 
 Ghi rõ đâu là sự thật kiểm chứng được, đâu là truyền thuyết. Không dùng chi tiết không chắc chắn.
 
@@ -198,6 +202,7 @@ Theo khung mục 5. Viết bản VI trước theo lối mẫu, rồi viết bả
 
 ### Bước 5. Tự kiểm trước khi gửi
 - [ ] Có câu chuyện gốc thật, đã kiểm chứng (hoặc ghi rõ "tương truyền"); nếu mượn từ tiểu thuyết thì đúng chi tiết, có tên sách và tác giả, và khớp chủ đề?
+- [ ] Câu chuyện dẫn về tinh thần Pháp Việt fusion của FC?
 - [ ] Có mô tả theo lớp với ít nhất 3 chi tiết cảm giác cụ thể?
 - [ ] Có kỹ thuật thật (áp chảo, hầm, ủ...)?
 - [ ] Có một dòng staccato ba từ?
