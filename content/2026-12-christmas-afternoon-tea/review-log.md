@@ -12,3 +12,4 @@
 | 5a | Editor | Đạt | 8.5 | Ghép bản r5; thêm lại tên sách (VI, EN) cho đúng checklist; ghi chú "5% phí phục vụ" — Leader kiểm: có nguồn từ chân menu (answers.md). |
 | 5b | Marketing Leader | Đạt | 8.5/10 | Ngắn rõ (Proust còn 1 câu), giữ hook/staccato/kết, không vị. Gửi CEO. |
 | 5c | CEO | Đạt | 9/10 | Gửi Khôi duyệt lại. |
+| 6 | Khôi | DUYỆT — FINAL | – | 2026-11-19. Chuyển phòng Design. |
