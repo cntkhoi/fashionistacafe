@@ -8,3 +8,7 @@
 | 3a | Editor | Đạt | 8.5 | Ghép đoạn tháp tầng mới; EN đổi "cracks under the fork" để không trùng VI; "đặc" → "dày". |
 | 3b | Marketing Leader | Đạt | 9/10 | Đoạn tháp tầng giờ tả bằng hình ảnh, một ghi chú kỹ thuật (bơ lạnh/hơi nước). Khối thành phần + giá + hashtag đã ghép đúng cú pháp. Gửi CEO chấm lại. |
 | 4 | CEO | Đạt — FINAL | 9/10 | Không lỗi chặn. Gửi Khôi duyệt trước khi đăng. |
+| 5 | Khôi | Cần sửa | – | Rút ngắn bài và bớt chuyện Proust (2026-11-19). Brief vòng 5: Proust còn 1–2 câu, VI ~120–160 chữ, EN ~70–100 chữ; giữ hook, staccato, đoạn tháp tầng, câu kết, khối thành phần/giá/hashtag. |
+| 5a | Editor | Đạt | 8.5 | Ghép bản r5; thêm lại tên sách (VI, EN) cho đúng checklist; ghi chú "5% phí phục vụ" — Leader kiểm: có nguồn từ chân menu (answers.md). |
+| 5b | Marketing Leader | Đạt | 8.5/10 | Ngắn rõ (Proust còn 1 câu), giữ hook/staccato/kết, không vị. Gửi CEO. |
+| 5c | CEO | Đạt | 9/10 | Gửi Khôi duyệt lại. |
