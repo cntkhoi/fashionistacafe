@@ -9,3 +9,5 @@
 | 5a | Editor | Đạt | 9 | Zola còn nửa câu dẫn (VI), EN bỏ; "tách khỏi phòng ăn chính" → "một khoảng riêng"/"A room of its own"; gọt còn 5 chi tiết gắn cảm giác riêng tư; bỏ "tiếng bên ngoài lùi xa" (tránh ngụ ý cách âm). |
 | 5b | Marketing Leader | Đạt | 9/10 | Đúng ý Khôi: phòng và sự riêng tư là trục, gương thành chi tiết phụ. Gửi CEO. |
 | 5c | CEO | Đạt | 9/10 | Bỏ nhịp kết thứ nhất ở cả hai bản cho tĩnh (đã áp dụng). Gửi Khôi. |
+| 6a | Leader | pass (Khôi đổi hướng: catering + phòng riêng; VI 157 chữ, EN 91) | 2026-11-22 |
+| 6b | CEO | pass 9/10, điều kiện kiểm chi tiết Zola: đã đối chiếu bản gốc archive.org chương IV ("sur le plafond, dans les reflets du café d'en bas, passaient les ombres rapides des promeneurs"), đúng | 2026-11-22 |

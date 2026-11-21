@@ -1,23 +1,35 @@
-The Room – Một căn phòng cho riêng những người cùng bàn
+The Room – Bữa tối thuộc về những người quanh bàn
 
-Riêng tư. Kín đáo. Tĩnh lặng.
+Riêng tư. Kín đáo. Trọn vẹn.
 
-Như những phòng riêng ở café Riche mà Zola tả trong *La Curée*, The Room là một khoảng riêng giữa Sài Gòn. Bàn dài phủ khăn trắng, ghế nhung xám cho tối đa tám người, không chừa chỗ cho người lạ. Ánh sáng ban ngày trải lên mặt bàn, dưới hai chùm đèn bong bóng thuỷ tinh treo lặng lẽ. Trên tường, tấm ảnh đen trắng một người thợ may đang chỉnh váy, khẽ gợi tên ngôi nhà. Gương ô trám chỉ giữ một mảnh mái ngói đỏ, một khoảng tán cây, không giữ ánh nhìn nào khác.
+Trong *La Curée*, Zola tả một phòng riêng ở café Riche, nơi phố xá bên ngoài chỉ còn là những bóng người lướt qua trên trần.
 
-Riêng tư là khi thế giới chỉ còn rộng bằng một chiếc bàn.
+Ắt hẳn vì thế, có những bữa tối cần một căn phòng riêng. The Room là một bàn dài phủ khăn trắng, cho tối đa tám người.
+
+Thực đơn được bàn trước cùng bếp, để từng món vừa với dịp ta ngồi lại: một bữa tối bàn chuyện công việc, một buổi sum họp gia đình, một ngày kỷ niệm.
+
+Khi bữa tiệc không ở villa, căn bếp ấy mang món ăn đến không gian của chủ nhà. Fashionista Café gọi đó là Bespoke Catering: vẫn sự chừng mực ấy, ở một chiếc bàn khác.
+
+Có những bữa tối cần cả thành phố làm nền, và có những bữa tối chỉ cần đúng người, đúng bàn.
 
 —
 
-The Room – a table set apart
+The Room – dinner, kept close
 
-Quiet. Close. Yours.
+Quiet. Settled. Yours.
 
-A room of its own: one long white-clothed table and grey velvet chairs for up to eight. Daylight settles on the linen. Glass-bubble pendants hang still. On the wall, in black and white, a dressmaker fits a gown. The diamond mirror gives back only a sliver of red roof and Saigon leaves, never a stranger's face.
+Paris once kept its most private dinners behind a cabinet door.
 
-Privacy is not hiding; it is choosing who stays.
+The Room holds a long white-clothed table for up to eight. The menu is settled with the kitchen in advance and served there, to no one but your table. When the evening belongs somewhere else, Bespoke Catering brings the Fashionista Café kitchen to your own venue.
+
+A business dinner that should stay between partners. An anniversary meant only for family.
+
+Some evenings are best kept close, wherever close happens to be.
 
 —
 
 **The Room** · phòng riêng tối đa 8 khách / private dining for up to 8 guests
+**Bespoke Catering** · bếp Fashionista Café tại không gian của bạn / at your own venue
+Đặt phòng & catering / Reservations: 096 540 1488
 
-#FashionistaCafe #TheArtOfCreation #QuietLuxury #FineDining #PrivateDining #SaigonFineDining
+#FashionistaCafe #TheArtOfCreation #QuietLuxury #FineDining #PrivateDining #BespokeCatering
