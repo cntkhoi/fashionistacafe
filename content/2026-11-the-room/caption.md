@@ -1,26 +1,20 @@
-The Room – Tấm gương không giữ tên ai
+The Room – Một căn phòng cho riêng những người cùng bàn
 
 Riêng tư. Kín đáo. Tĩnh lặng.
 
-Trong *La Curée*, Zola tả một phòng riêng ở café Riche, nơi tấm gương bị kim cương của các quý bà khắc chi chít tên, ngày tháng, những câu thơ. Căn phòng ấy nhớ từng người.
+Như những phòng riêng ở café Riche mà Zola tả trong *La Curée*, The Room là một khoảng riêng giữa Sài Gòn. Bàn dài phủ khăn trắng, ghế nhung xám cho tối đa tám người, không chừa chỗ cho người lạ. Ánh sáng ban ngày trải lên mặt bàn, dưới hai chùm đèn bong bóng thuỷ tinh treo lặng lẽ. Trên tường, tấm ảnh đen trắng một người thợ may đang chỉnh váy, khẽ gợi tên ngôi nhà. Gương ô trám chỉ giữ một mảnh mái ngói đỏ, một khoảng tán cây, không giữ ánh nhìn nào khác.
 
-Gương ô trám vát cạnh ở The Room thì không giữ tên ai. Mỗi ô chỉ giữ một mảnh mái ngói đỏ, một khoảng tán cây Sài Gòn, một chùm bong bóng thuỷ tinh lặng lẽ toả ánh đèn.
-
-Bàn dài phủ khăn trắng, cho tối đa tám người. Ánh sáng ban ngày trải lên mặt bàn, dịu như vừa qua một lớp rèm trắng. Trên tường, tấm ảnh đen trắng một người thợ may đang chỉnh váy, như lời nhắc khẽ về tên ngôi nhà.
-
-Có những căn phòng giữ tên người, và có căn phòng để người ta quên mọi thứ khác.
+Riêng tư là khi thế giới chỉ còn rộng bằng một chiếc bàn.
 
 —
 
-The Room – a mirror that keeps no names
+The Room – a table set apart
 
-Still. Bright. Unseen.
+Quiet. Close. Yours.
 
-In Zola's *La Curée*, the mirror of a private room at the Café Riche is scratched all over by ladies' diamonds: names, dates, lines of verse.
+A room of its own: one long white-clothed table and grey velvet chairs for up to eight. Daylight settles on the linen. Glass-bubble pendants hang still. On the wall, in black and white, a dressmaker fits a gown. The diamond mirror gives back only a sliver of red roof and Saigon leaves, never a stranger's face.
 
-The Room's mirror keeps none of that. Its bevelled diamonds hold only a red tile roof and Saigon treetops, split pane by pane. Daylight rests on a long white-clothed table for up to eight. On the wall, in black and white, a dressmaker fits a gown.
-
-Some rooms keep your name. This one keeps the light.
+Privacy is not hiding; it is choosing who stays.
 
 —
 
