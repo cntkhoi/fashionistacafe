@@ -11,3 +11,4 @@
 | 5c | CEO | Đạt | 9/10 | Bỏ nhịp kết thứ nhất ở cả hai bản cho tĩnh (đã áp dụng). Gửi Khôi. |
 | 6a | Leader | pass (Khôi đổi hướng: catering + phòng riêng; VI 157 chữ, EN 91) | 2026-11-22 |
 | 6b | CEO | pass 9/10, điều kiện kiểm chi tiết Zola: đã đối chiếu bản gốc archive.org chương IV ("sur le plafond, dans les reflets du café d'en bas, passaient les ombres rapides des promeneurs"), đúng | 2026-11-22 |
+| 6c | Khôi | DUYỆT (room_approve_r6) | 2026-11-22 |
