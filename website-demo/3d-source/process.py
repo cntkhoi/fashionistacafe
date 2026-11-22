@@ -1,6 +1,6 @@
 import os, glob, json, base64, io, re
 from PIL import Image, ImageFilter, ImageChops, ImageEnhance
-SRC='/tmp/fc3d/out/'; DST='/home/user/fashionistacafe/website-demo/img/'; os.makedirs(DST,exist_ok=True)
+SRC=os.environ.get('FC_SRC','/tmp/fc3d/out3/'); DST='/home/user/fashionistacafe/website-demo/img/'; os.makedirs(DST,exist_ok=True)
 def bloom(im):
     im=im.convert('RGB'); w,h=im.size
     hi=im.point(lambda v: max(0,(v-175))*3.2)
@@ -21,7 +21,7 @@ for p in sorted(glob.glob(SRC+'*.png')):
         save(m,'m_'+n+'.webp',78 if hq else 64)
     else: save(im,n+'.webp',80)
 # journal crops from film frames
-for name,src,box in (('j1','f008',(.30,.05,.80,.888)),('j2','f030',(.18,.12,.62,.853)),('j3','f042',(.30,.10,.86,1.0))):
+for name,src,box in (('j1','f016',(.30,.05,.80,.888)),('j2','f060',(.18,.12,.62,.853)),('j3','f084',(.30,.10,.86,1.0))):
     p=SRC+src+'.png'
     if os.path.exists(p):
         im=bloom(Image.open(p)); w,h=im.size; bw=(box[2]-box[0])*w; bh=min(h*(box[3]-box[1]),bw*1.25); bw=bh/1.25
