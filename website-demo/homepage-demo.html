@@ -297,7 +297,7 @@ var $=function(id){return document.getElementById(id)};
 var reduce=window.matchMedia&&window.matchMedia('(prefers-reduced-motion: reduce)').matches;
 var clamp=function(v,a,b){return Math.max(a,Math.min(b,v))};
 var smooth=function(a,b,v){var t=clamp((v-a)/(b-a),0,1);return t*t*(3-2*t)};
-var CFG=/*CFG*/{"n": 48, "spots": [[0.7674, 0.5968], [0.7752, 0.2162], [0.4899, 0.5301]], "lamp": [0.5021, 0.4875], "mcrop": [280, 720, 1280]};
+var CFG=/*CFG*/{"n": 95, "spots": [[0.7674, 0.5968], [0.7752, 0.2162], [0.4899, 0.5301]], "lamp": [0.5021, 0.4875], "mcrop": [280, 720, 1280], "split": 64};
 
 /* film grain: one small noise tile, moved by CSS */
 (function(){var c=document.createElement('canvas');c.width=c.height=180;var g=c.getContext('2d'),d=g.createImageData(180,180);
