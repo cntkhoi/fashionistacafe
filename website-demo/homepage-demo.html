@@ -172,7 +172,7 @@ footer .label{display:block;margin-bottom:10px}
 
 <main id="top">
   <section id="hero" aria-label="A table for two by the window">
-    <div class="pin" id="pin" style="background-image:url(data:image/webp;base64,UklGRpIAAABXRUJQVlA4IIYAAABwBQCdASooAB4APuVkpE2pJiOiNVgIASAciWMApIBBP6qOM8bL69cTYhfI5HaOLAV/tFAAAP7qMv6tjSje0ViHLIABgddKMapLY+q7jxBuIcAJWdUCN1gczXgfII9dmdSA6qWNMEtoeLGPxXHOOE1lgG1/55GKhzJvJV/6X/QNDjCQtZwwAA==)">
+    <div class="pin" id="pin" style="background-image:url(data:image/webp;base64,UklGRrgAAABXRUJQVlA4IKwAAAAQBwCdASooAB4APu1mp04ppaMiKq35MB2JYwCdMzlIIPYTlD6SCBItVFNoQm/2cnJO/37dIUsQYsRUM5uZgUcnAAD+8aTcmTvsr2iUz4GmVj/jZfGGHQdin72hcj/5oUTJ5z/yJ0ifA96+z5Y21B+u0Xfaoaql0mQLx0EPgr8CBSMbMMTWB1/XRLPH4V6jvZZVJ9KcPH5PTf7VPbjYrhHuH2oGVLTHkOHjJNAA)">
       <canvas id="film" role="img" aria-label="A round table for two dressed in white linen, with a brass lamp, flowers and silver, beside a window onto the street at dusk"></canvas>
       <div class="grade"></div><div class="grain" id="grain"></div>
       <div class="bars t" id="barT"></div><div class="bars b" id="barB"></div>
@@ -297,7 +297,7 @@ var $=function(id){return document.getElementById(id)};
 var reduce=window.matchMedia&&window.matchMedia('(prefers-reduced-motion: reduce)').matches;
 var clamp=function(v,a,b){return Math.max(a,Math.min(b,v))};
 var smooth=function(a,b,v){var t=clamp((v-a)/(b-a),0,1);return t*t*(3-2*t)};
-var CFG=/*CFG*/{"n": 95, "spots": [[0.7674, 0.5968], [0.7752, 0.2162], [0.4899, 0.5301]], "lamp": [0.5021, 0.4875], "mcrop": [280, 720, 1280], "split": 64};
+var CFG=/*CFG*/{"n": 121, "spots": [[0.7674, 0.5968], [0.7752, 0.2162], [0.4899, 0.5301]], "lamp": [0.5021, 0.4875], "mcrop": [280, 720, 1280], "split": 82};
 
 /* film grain: one small noise tile, moved by CSS */
 (function(){var c=document.createElement('canvas');c.width=c.height=180;var g=c.getContext('2d'),d=g.createImageData(180,180);
@@ -373,13 +373,13 @@ function tick(now){
   var lk=lampK+(want-lampK)*Math.min(1,dt*(want>lampK?1.6:3));
   if(Math.abs(want-lk)<.02)lk=want;
   if(lk!==lampK){lampK=lk;dirty=true}
-  var nf=reduce?target:fS+(target-fS)*(1-Math.exp(-dt*6));
+  var nf=reduce?target:fS+(target-fS)*(1-Math.exp(-dt*14));
   if(Math.abs(nf-fS)>.002){fS=nf;dirty=true;var c=Math.round(fS),dir=target>=fS?1:-1;for(var d=-3;d<=9;d++)warm(c+d*dir)}
   if(dirty){dirty=false;
     g.globalAlpha=1;g.fillStyle='#0b0806';
     if(fS<.03||lampK<.985){ if(offOK){cover(off,1);cover(on,lampK)}else{cover(on,1)} }
-    else{var i0=Math.floor(fS),a=nearest(i0),b=nearest(Math.min(N-1,i0+1));
-      if(a<0){cover(on,1)}else{cover(pic(a),1);if(b>a)cover(pic(b),clamp((fS-a)/(b-a),0,1))}}
+    else{var a=nearest(clamp(Math.round(fS),0,N-1)); /* one sharp frame, never a blend of two (blending reads as motion blur) */
+      if(a<0){cover(on,1)}else{cover(pic(a),1)}}
     g.globalAlpha=1}
   if(!reduce){mxS+=(mx-mxS)*Math.min(1,dt*2.2);myS+=(my-myS)*Math.min(1,dt*2.2);
     var z=1.045-.03*smooth(0,1,intro)+Math.sin(now/9000)*.004;

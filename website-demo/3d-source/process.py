@@ -21,7 +21,7 @@ for p in sorted(glob.glob(SRC+'*.png')):
         save(m,'m_'+n+'.webp',78 if hq else 64)
     else: save(im,n+'.webp',80)
 # journal crops from film frames
-for name,src,box in (('j1','f016',(.30,.05,.80,.888)),('j2','f060',(.18,.12,.62,.853)),('j3','f084',(.30,.10,.86,1.0))):
+for name,src,box in (('j1','f020',(.30,.05,.80,.888)),('j2','f077',(.18,.12,.62,.853)),('j3','f107',(.30,.10,.86,1.0))):
     p=SRC+src+'.png'
     if os.path.exists(p):
         im=bloom(Image.open(p)); w,h=im.size; bw=(box[2]-box[0])*w; bh=min(h*(box[3]-box[1]),bw*1.25); bw=bh/1.25
