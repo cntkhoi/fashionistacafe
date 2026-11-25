@@ -8,3 +8,4 @@
 - Thay đổi chữ ngoài layout: thêm nhãn "Excursion" nhỏ trên trang menu + số La Mã; khôi phục 2 dấu "—" bị mất ở đoạn "two creative worlds — fashion and gastronomy — where".
 - QA nội bộ v1: đạt (chữ khớp bản gốc, font nhúng, hình nét ở 300dpi, bleed 3mm phủ nền).
 - final/: PDF 13x21, PDF bleed 3mm (13.6x21.6), PNG 300dpi từng trang, preview.jpg. source/: HTML + render.js (node render.js 0|1 out.pdf).
+- v2 (2026-11-25): Khôi yêu cầu trang cuối dùng logo quán đầy đủ (icon trên, chữ dưới), màu theo tone menu: icon xanh #547DAB, chữ #343434 (file source/logo_full.png).
