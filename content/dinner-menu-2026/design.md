@@ -1,0 +1,10 @@
+# Dinner Menu "Excursion" (Chef Tran Vinh) · 13 x 21 cm
+- 2026-11-25: Khôi gửi bản Canva do intern làm (5 trang 13.5x21.2, trang 5 trắng). Yêu cầu: dàn lại layout chuẩn fine dining, giữ style + màu, làm nét hình.
+- Khôi chọn: giữ nguyên chữ tên món (chỉ dàn lại, in đậm/thường); giữ dòng "All prices are quoted in 1,000 VND..."; khổ 13 x 21 cm như menu Giáng sinh.
+- Hình: Higgsfield hết credit (upscale 2 credits bị từ chối) → vẽ lại bằng code (gen circles.py / textures.py): 2 vòng tròn đá đen + nước xanh 2160x3720 (~1000dpi ở 50mm), nền giấy cold-press ~430dpi, biểu tượng logo xanh lấy từ logo gốc fc-logo_transparent.png đổi màu #547DAB.
+- Font: Italiana (thay Safira March của Canva, gần nhất trên Google Fonts) + Noto Serif Display (giữ font gốc), nhúng TTF tĩnh (CID, không Type 3).
+- Màu: chữ #343434, xám phụ #5B5A57, xanh nhấn #54739F, nền giấy #EEEDE8.
+- Bố cục: 4 trang (bỏ trang trắng): Bìa / Menu 5 course (số La Mã I–V, tên món chính in hoa giãn chữ, phần kèm nghiêng, dấu • xanh) / Lịch sử The House of Fashion / Bìa sau.
+- Thay đổi chữ ngoài layout: thêm nhãn "Excursion" nhỏ trên trang menu + số La Mã; khôi phục 2 dấu "—" bị mất ở đoạn "two creative worlds — fashion and gastronomy — where".
+- QA nội bộ v1: đạt (chữ khớp bản gốc, font nhúng, hình nét ở 300dpi, bleed 3mm phủ nền).
+- final/: PDF 13x21, PDF bleed 3mm (13.6x21.6), PNG 300dpi từng trang, preview.jpg. source/: HTML + render.js (node render.js 0|1 out.pdf).

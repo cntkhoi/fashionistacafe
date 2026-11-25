@@ -1,0 +1,108 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<title>Excursion · Dinner Menu</title>
+<link href="fonts_local.css" rel="stylesheet">
+<style>
+:root{--b:0mm;--ink:#343434;--soft:#5b5a57;--blue:#54739f;--W:130mm;--H:210mm}
+body.bleed{--b:3mm}
+@page{margin:0}
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{background:#fff}
+.sheet{position:relative;width:calc(var(--W) + 2*var(--b));height:calc(var(--H) + 2*var(--b));overflow:hidden;
+  background:url(paper.jpg) center/cover no-repeat;page-break-after:always;break-after:page}
+.sheet:last-child{page-break-after:auto;break-after:auto}
+.page{position:absolute;left:var(--b);top:var(--b);width:var(--W);height:var(--H);color:var(--ink);
+  font-family:'Noto Serif Display',serif;text-align:center}
+.disp{font-family:'Italiana',serif;font-weight:400}
+.abs{position:absolute;left:0;right:0}
+.dotrule{display:flex;align-items:center;justify-content:center;gap:2.2mm}
+.dotrule i{display:block;width:12mm;height:.18mm;background:var(--blue);opacity:.55}
+.dotrule b{display:block;width:1.1mm;height:1.1mm;border-radius:50%;background:var(--blue)}
+
+/* ---- cover ---- */
+.c-title{top:15mm;font-size:52pt;letter-spacing:.03em;line-height:1}
+.c-circles{position:absolute;left:50%;top:47mm;width:50mm;transform:translateX(-50%)}
+.c-vert{position:absolute;left:12.5mm;top:47mm;height:86mm;writing-mode:vertical-rl;transform:rotate(180deg);
+  display:flex;align-items:center;justify-content:center;font-size:12.5pt;letter-spacing:.16em;white-space:nowrap}
+.c-sub{top:153mm;font-size:13pt;letter-spacing:.26em}
+.c-rule{top:163mm}
+.c-intro{top:169mm;left:16mm;right:16mm;font-size:7.8pt;line-height:1.75;font-style:italic;font-weight:300;color:var(--soft);letter-spacing:.015em;text-wrap:balance}
+.c-intro p+p{margin-top:1.6mm}
+
+/* ---- menu ---- */
+.m-kick{top:19mm;font-size:6.4pt;letter-spacing:.5em;text-transform:uppercase;color:var(--blue);padding-left:.5em}
+.m-title{top:25mm;font-size:25pt;letter-spacing:.09em;line-height:1}
+.m-rule{top:40mm}
+.courses{position:absolute;left:12mm;right:12mm;top:50mm;bottom:30mm;display:flex;flex-direction:column;justify-content:space-between}
+.course{display:flex;flex-direction:column;align-items:center}
+.num{font-family:'Italiana',serif;font-size:9pt;color:var(--blue);letter-spacing:.2em;margin-bottom:2.2mm;padding-left:.2em}
+.main{font-size:8.6pt;font-weight:500;letter-spacing:.2em;text-transform:uppercase;line-height:1.3;padding-left:.2em}
+.acc{margin-top:1.6mm;font-size:8.5pt;font-style:italic;font-weight:300;color:var(--soft);letter-spacing:.03em;line-height:1.45;text-wrap:balance}
+.sep{color:var(--blue);font-style:normal;margin:0 .45em;font-size:.8em;position:relative;top:-.05em}
+.m-foot{bottom:14mm;font-size:6.2pt;letter-spacing:.08em;color:var(--soft);font-style:italic;font-weight:300}
+
+/* ---- history ---- */
+.h-title{top:19mm;font-size:21pt;letter-spacing:.07em;line-height:1.22}
+.h-rule{top:46mm}
+.h-body{top:54mm;left:14mm;right:14mm;font-size:8.2pt;line-height:1.8;font-weight:400;letter-spacing:.01em;text-wrap:pretty}
+.h-body p+p{margin-top:4.2mm}
+.h-body .last{font-style:italic;color:var(--soft);margin-top:5.5mm}
+.h-sym{position:absolute;left:50%;bottom:16mm;width:11mm;transform:translateX(-50%);opacity:.95}
+
+/* ---- back ---- */
+.b-name{top:94mm;font-size:17pt;letter-spacing:.2em;padding-left:.2em}
+.b-sym{position:absolute;left:50%;top:106mm;width:17mm;transform:translateX(-50%);filter:drop-shadow(.35mm .5mm .45mm rgba(30,40,60,.28))}
+</style></head>
+<body>
+<!-- 1 · COVER -->
+<section class="sheet"><div class="page">
+  <div class="abs disp c-title">Excursion</div>
+  <img class="c-circles" src="circles_1080.png" alt="">
+  <div class="c-vert disp">Crafted by Chef Tran Vinh</div>
+  <div class="abs disp c-sub">A Culinary Journey</div>
+  <div class="abs dotrule c-rule"><i></i><b></b><i></i></div>
+  <div class="abs c-intro">
+    <p>Inspired by the Chef’s journeys and discoveries, each creation captures a world of flavors, memories, and inspirations.</p>
+    <p>An invitation to wander beyond the familiar and experience gastronomy through the Chef’s eyes.</p>
+  </div>
+</div></section>
+
+<!-- 2 · MENU -->
+<section class="sheet"><div class="page">
+  <div class="abs m-kick">Excursion</div>
+  <div class="abs disp m-title">Beyond the Journey</div>
+  <div class="abs dotrule m-rule"><i></i><b></b><i></i></div>
+  <div class="courses">
+    <div class="course"><div class="num">I</div><div class="main">Marinated Bluefin Tuna</div>
+      <div class="acc">Cherry Tomatoes<span class="sep">•</span>Fresh Apple - Yogurt Lemongrass Sauces</div></div>
+    <div class="course"><div class="num">II</div><div class="main">Foie Gras</div>
+      <div class="acc">Beef Pho Broth<span class="sep">•</span>Cassava Noodles Herbs</div></div>
+    <div class="course"><div class="num">III</div><div class="main">Iberico Pork</div>
+      <div class="acc">Roasted Apple<span class="sep">•</span>Watercress Salad<span class="sep">•</span>Tamarind Pork</div></div>
+    <div class="course"><div class="num">IV</div><div class="main">Grilled Tiger Prawns</div>
+      <div class="acc">Seafood X.O<span class="sep">•</span>Risoni Pasta</div></div>
+    <div class="course"><div class="num">V</div><div class="main">Pavlova Vanilla Cream</div>
+      <div class="acc">Berries Fruit</div></div>
+  </div>
+  <div class="abs m-foot">All prices are quoted in 1,000 VND excluded 8% VAT &amp; 5% service charge</div>
+</div></section>
+
+<!-- 3 · HISTORY -->
+<section class="sheet"><div class="page">
+  <div class="abs disp h-title">The History of The<br>House of Fashion</div>
+  <div class="abs dotrule h-rule"><i></i><b></b><i></i></div>
+  <div class="abs h-body">
+    <p>Nestled at 22B Phung Khac Khoan Street, in the heart of Saigon, The House of Fashion occupies a residence steeped in the charm of one of the city’s historic diplomatic quarters.</p>
+    <p>Originally conceived as a French-inspired villa, the building embodies the architectural elegance and timeless romance of old Saigon. Through the passage of time, it has witnessed the evolution of its surrounding neighbourhood, quietly preserving the spirit and heritage of a bygone era within its walls.</p>
+    <p>In December 2022, the villa embarked on a new chapter under the vision of Vietnamese entrepreneur Le Thu. Inspired by her profound passion for fashion and gastronomy, she reimagined this historic residence as The House of Fashion&nbsp;— a distinctive destination where the fashion house Mr&nbsp;Crazy &amp; Lady Sexy and the fine-dining restaurant Fashionista Café come together. Today, The House of Fashion stands as a celebration of two creative worlds&nbsp;— fashion and gastronomy&nbsp;— where the enduring legacy of French architecture meets contemporary sophistication.</p>
+    <p class="last">An exquisite space where the timeless elegance of old Saigon is brought to life through fashion, art and gastronomy.</p>
+  </div>
+  <img class="h-sym" src="symbol_600.png" alt="">
+</div></section>
+
+<!-- 4 · BACK -->
+<section class="sheet"><div class="page">
+  <div class="abs disp b-name">Fashionista Café</div>
+  <img class="b-sym" src="symbol_600.png" alt="">
+</div></section>
+</body></html>
