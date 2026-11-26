@@ -10,3 +10,4 @@
 - final/: PDF 13x21, PDF bleed 3mm (13.6x21.6), PNG 300dpi từng trang, preview.jpg. source/: HTML + render.js (node render.js 0|1 out.pdf).
 - v2 (2026-11-25): Khôi yêu cầu trang cuối dùng logo quán đầy đủ (icon trên, chữ dưới), màu theo tone menu: icon xanh #547DAB, chữ #343434 (file source/logo_full.png).
 - v3 (2026-11-27): Khôi báo nét chữ quá mảnh, khó in. Đổi font chữ thường Noto Serif Display → Noto Serif (cùng họ, nét dày hơn), bỏ toàn bộ weight 300; tên món SemiBold, số La Mã chuyển sang Noto Serif. Tiêu đề lớn vẫn Italiana.
+- v4 (2026-11-27): Khôi chọn chỉ đổi tiêu đề nhỏ: 'Crafted by Chef Tran Vinh' và 'A Culinary Journey' sang Marcellus 11.5pt; Excursion và tên trang giữ Italiana.
