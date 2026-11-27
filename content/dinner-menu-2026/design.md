@@ -13,3 +13,4 @@
 - v4 (2026-11-27): Khôi chọn chỉ đổi tiêu đề nhỏ: 'Crafted by Chef Tran Vinh' và 'A Culinary Journey' sang Marcellus 11.5pt; Excursion và tên trang giữ Italiana.
 - v5 (2026-11-27): Khôi thấy logo trang cuối to, thô → thu từ 54mm còn 30mm, opacity .92.
 - v6 (2026-11-27): logo trang cuối to thêm 30% → 39mm (Khôi).
+- v7 (2026-11-27): đổi chỗ trang 2 và 3 (Khôi): thứ tự mới Bìa / Lịch sử / Menu / Bìa sau.
