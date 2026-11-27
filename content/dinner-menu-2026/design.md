@@ -14,3 +14,4 @@
 - v5 (2026-11-27): Khôi thấy logo trang cuối to, thô → thu từ 54mm còn 30mm, opacity .92.
 - v6 (2026-11-27): logo trang cuối to thêm 30% → 39mm (Khôi).
 - v7 (2026-11-27): đổi chỗ trang 2 và 3 (Khôi): thứ tự mới Bìa / Lịch sử / Menu / Bìa sau.
+- v8 (2026-11-27): thêm giá set dưới tiêu đề trang menu: '2,100++ / PAX' (Khôi: 2.100.000++ VND/pax; ghi theo đơn vị nghìn VND của dòng chú thích).
