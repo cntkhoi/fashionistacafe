@@ -17,3 +17,4 @@
 - v8 (2026-11-27): thêm giá set dưới tiêu đề trang menu: '2,100++ / PAX' (Khôi: 2.100.000++ VND/pax; ghi theo đơn vị nghìn VND của dòng chú thích).
 - Canva (2026-11-27): import PDF → design DAHcGqDRqr0, edit https://www.canva.com/d/zmsqgL2yWCdV0P7 . Lớp chữ/hình tách riêng. Canva không nhận Italiana/Marcellus khi import (thay bằng font sans), tên món mất SemiBold; API không đổi được font → Khôi đổi tay. Đã sửa: Excursion dính khoảng trắng, A Culinary Journey bị tách, khối món trang menu chồng chữ.
 - v9 (2026-11-27): dòng giá chỉ một màu xanh (cả '/ PAX').
+- v10 (2026-11-27): dòng giá đổi sang một màu đen #343434 (Khôi).
