@@ -1,22 +1,24 @@
-Christmas Menu – Có những bữa tiệc khiến ta muốn thức thật lâu
+Christmas Menu – Một bữa tối Giáng sinh để ta được ngồi bên nhau lâu hơn
 
 Chậm rãi. Trọn vẹn. Sum vầy.
 
-Người Pháp gọi bữa tiệc Giáng sinh là *Réveillon*, từ chữ *veiller*, nghĩa là thức canh. Xưa, sau thánh lễ nửa đêm, người ta ngồi vào một chuỗi món dài tới sáng.
+Ở Pháp, bữa tối đêm Giáng sinh được gọi là *Réveillon*, một chữ bắt nguồn từ *veiller*, nghĩa là thức canh. Ngày trước, các gia đình Pháp thường thức đến nửa đêm để dự thánh lễ, rồi cùng nhau ngồi vào một bữa tối thật dài, các món lần lượt được dọn lên, có khi kéo dài cho đến sáng.
 
-Tháng Mười Hai này, trong căn villa Pháp, nhịp chậm ấy trở lại qua hành trình chín món. Mở đầu là cá cam yellowtail bên cái mát lạnh của sorbet húng quế. Kế đến, Pho · Eel · Consommé, nơi phở Việt gặp consommé, lối làm trong nước dùng của bếp Pháp. Rồi wagyu Sendai, đi cùng bơ Café de Paris. Để rồi khép lại bằng brownie sô-cô-la Bến Tre, từ ca cao lớn lên dưới tán dừa, và petit four như lời chào cuối.
+Suốt tháng Mười Hai này, Fashionista Café mang tinh thần ấy về căn villa Pháp giữa Sài Gòn, qua một thực đơn gồm chín món. Bữa tối bắt đầu nhẹ nhàng với cá cam (yellowtail) dùng cùng sorbet húng quế mát lạnh. Tiếp theo là món Pho · Eel · Consommé, nơi phở của người Việt gặp consommé, kiểu nước dùng trong của bếp Pháp. Món chính là thịt bò wagyu Sendai dùng cùng bơ Café de Paris. Cuối cùng, bữa tối khép lại bằng bánh brownie làm từ sô-cô-la Bến Tre, nơi cây ca cao lớn lên dưới tán dừa, và những chiếc petit four nhỏ như một lời chào trước khi ra về.
 
-Có lẽ điều quý nhất của đêm dài không phải chờ sáng, mà là ngồi lâu hơn bên người ta thương.
+Có lẽ điều đáng quý nhất của một đêm dài không nằm ở việc chờ trời sáng, mà ở chỗ ta được ngồi lâu hơn bên những người mình thương.
 
 —
 
-Christmas Menu – nine courses, and no hurry to leave the table
+Christmas Menu – a long December dinner, the French way
 
-Long. Slow. Shared.
+Slow. Generous. Together.
 
-The French réveillon takes its name from veiller, to stay awake, for a feast that runs deep into the night. Through December, in a French villa in Saigon, that pace returns across nine courses. Yellowtail amberjack arrives cool, beside basil sorbet. Eel and pho meet in a clear consommé: Vietnam, by way of a French method. Sendai wagyu takes Café de Paris butter. Ben Tre chocolate, then petit fours, close the night.
+In France, the Christmas Eve dinner is called the réveillon, from veiller, to stay awake: families would stay up for midnight Mass, then sit down together to a long meal that could last until morning.
 
-Perhaps the best nights are the ones no one wants to end.
+Throughout December, Fashionista Café brings that spirit to its French villa in Saigon with a nine-course menu. It begins with yellowtail amberjack and a cool basil sorbet, moves on to eel and pho served as a clear French consommé, and arrives at Sendai wagyu with Café de Paris butter. A Ben Tre chocolate brownie and petit fours bring the evening to a close.
+
+The best part of a long night is not waiting for morning, but staying a little longer with the people we love.
 
 —
 
